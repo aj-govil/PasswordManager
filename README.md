@@ -1,5 +1,7 @@
 # Password Manager
 
+![home](https://github.com/aj-govil/PasswordManager/assets/98484980/997033ff-2773-4541-ada6-8a17eb5f6aba)
+
 ## Overview
 
 The Password Manager is a secure and user-friendly application designed to help users store and manage their passwords in a centralized and encrypted vault. This project aims to provide a reliable solution for individuals and organizations to enhance their online security by generating and storing complex passwords.
